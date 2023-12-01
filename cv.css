@@ -1,0 +1,65 @@
+body {
+    background-color: turquoise;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkslategray;
+}
+.introduction {
+    text-align: center;
+    line-height: 0.7;
+}
+img {
+    border-radius: 50%;
+    width: 120px;
+    height: 140px;
+}
+.aim {
+    text-decoration: underline;
+    text-align: center;
+}
+.aims {
+    background-color: blue;
+    color: white;
+    height: 150px;
+    width: 100%;
+    padding-left: 10px;
+    padding-top: 0.1px;
+    padding-bottom: 9px;
+}
+.school {
+    text-align: center;
+    text-decoration: underline;
+}
+span {
+    position: absolute;
+    left: 1000px;
+}
+.data {
+    text-align: center;
+    text-decoration: underline;
+}
+.bio-data {
+    background-color: darkblue;
+    padding-left: 10px;
+    color: white;
+    width: 100%;
+    height: 200;
+    padding-bottom: 5px;
+    padding-top: 1px;
+}
+.QUALIFICATIONS {
+    line-height: 2;
+}
+.w-history {
+    margin-left: 25px;
+}
+a {
+    text-decoration: none;
+    font-style: italic;
+    color: ivory;
+}
+a:hover {
+    color: yellow;
+}
+.certifications {
+    line-height: 2;
+}
